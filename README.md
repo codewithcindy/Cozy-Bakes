@@ -37,3 +37,12 @@ The project was introduced immediately after the Bootstrap section as to practic
 ---
 
 ### Screenshots
+
+![CozyBakes_1](https://user-images.githubusercontent.com/47929016/137573477-84f74d7f-9eac-455e-b171-a6000bbbda7e.png)
+![CozyBakes_2](https://user-images.githubusercontent.com/47929016/137573485-da1d054a-9cb3-45da-9b2b-c896993e169b.png)
+
+
+![CozyBakes_3](https://user-images.githubusercontent.com/47929016/137573488-d0c4c493-3cc9-47b6-aee1-a283441bbe46.png)
+
+![CozyBakes_4](https://user-images.githubusercontent.com/47929016/137573588-27c9a3ce-47ba-43b4-bc2c-e0729193d7a3.png)
+
